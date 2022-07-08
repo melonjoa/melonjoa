@@ -1,7 +1,6 @@
 ## Son Young Do😄
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melonjoa&show_icons=true&theme=radical)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=melonjoa)](https://solved.ac/melonjoa)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=melonjoa&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp;[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=melonjoa)](https://solved.ac/melonjoa)
 
 
 ## ✔ Skills
