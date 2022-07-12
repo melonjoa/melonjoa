@@ -17,6 +17,4 @@
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=Git&logoColor=white)
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=melonjoa)](https://github.com/melonjoa/github-readme-stats)
